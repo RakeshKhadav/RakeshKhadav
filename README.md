@@ -10,7 +10,7 @@
 - 🔥 Full-stack Developer with a passion for creativity  
 - 🎨 UI/UX Designer using modern tools  
 - 🧠 Always learning, always building  
-- 🚀 Founder @ [Creative Nests](https://youragencylink.com)  
+- 🚀 Co-Founder @ [Creative Nests](https://creative-nests.vercel.app/)  
 - 💬 Let's collaborate on impactful ideas!
 
 ---
@@ -44,8 +44,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RakeshKhadav&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshKhadav&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </p>
 
 ---
@@ -53,9 +53,9 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:rakeshkhadav47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/rakesh-khadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 
 ---
