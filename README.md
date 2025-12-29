@@ -10,7 +10,6 @@
 - 🔥 Full-stack Developer with a passion for creativity  
 - 🎨 UI/UX Designer using modern tools (Figma)
 - 🧠 Always learning, always building  
-- 🚀 Co-Founder @ [Creative Nests](https://creative-nests.vercel.app/)  
 - 💬 Let's collaborate on impactful ideas!
 
 ---
